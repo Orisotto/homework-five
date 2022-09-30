@@ -1,0 +1,12 @@
+@font-face {
+  font-family: gill-sans;
+  src: url(/css/fonts/GillSans.ttc);
+}
+@font-face {
+  font-family: proxima-nova-thin;
+  src: url(/css/fonts/Proxima-Nova-Thin.otf);
+}
+@font-face {
+  font-family: proxima-nova-extra-condensed;
+  src: url(/css/fonts/ProximaNovaScOsfExtraCondensed.ttf);
+}
